@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatastoreSpace</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="save">Save</string>
+    <string name="find">find</string>
+    <string name="textview">TextView</string>
+</resources>
